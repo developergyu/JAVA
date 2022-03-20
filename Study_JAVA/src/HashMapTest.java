@@ -16,7 +16,5 @@ public class HashMapTest {
 		System.out.println(map.get("Key1"));
 		//value값을 통해서 찾으면 null
 		System.out.println(map.get("value1"));
-
 	}
-
 }
