@@ -24,8 +24,5 @@ public static void main(String[] args) {
 			Object obj = list.get(i);
 			System.out.println("for¹® »ç¿ë : " + obj);
 		}
-		
-
 	}
-
 }
